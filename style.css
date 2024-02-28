@@ -1,0 +1,33 @@
+body>h1{
+    text-align: center;
+color: rgb(133, 3, 46);
+}
+input {
+    margin-bottom: 8px;
+    font-size: 16px;
+    padding: 8px 70px 8px 5px;
+}
+button{
+    margin-top: 40;
+    font-size: 20px;
+    color: rgb(84, 2, 32);
+    background-color: rgb(253, 170, 170);
+    padding: 10px 50px;
+    border: 2px solid rgb(74, 1, 1);
+    border-radius: 50px;
+    font-weight: 800;
+}
+.allUl>li{
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
